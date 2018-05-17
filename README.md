@@ -1,2 +1,0 @@
-# miacro.github.com
-minesweeper
